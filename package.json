@@ -1,0 +1,30 @@
+{
+  "name": "dbxpautomation",
+  "version": "1.0.0",
+  "description": "IB UI Automation Repository",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --spec",
+    "cy:verify": "cypress verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://blrgitlab.comviva.com/dfs-core/automation/dbxp/uiautomation/internet-banking.git"
+  },
+  "keywords": [],
+  "author": "Manish",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.16.9",
+    "cypress": "^12.12.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.5.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "chance": "^1.1.11"
+  }
+}

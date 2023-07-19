@@ -1,0 +1,14 @@
+{
+    "name": "Sameer Khan",
+    "motherName": "Mother",
+    "national_ID": "IZKAP4403l1234",
+    "DateOfBirth": {
+        "year": "1999",
+        "month": "DEC",
+        "date": "30"
+    },
+    "Relationship": null,
+    "nationalD": null,
+    "PermanentAddress": "#mat-radio-1 > .mat-radio-label > .mat-radio-container > .mat-radio-outer-circle",
+    "TemperoryAddress": null
+}

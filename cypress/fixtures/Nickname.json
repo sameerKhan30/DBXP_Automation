@@ -1,0 +1,14 @@
+{
+    "accountType": {
+        "Credit": "Nickname Details for DBXP-Credit Cards",
+        "Bank_Accounts": "DBXP-Bank Accounts",
+        "Fixed_Deposit": "Fixed deposit",
+        "Recurring_Deposit": "Recurring deposit"
+    },
+    "userName": "Sameer Khan",
+    "CreditCardNumber": {
+        "one": "4439XXXXXXXX4028",
+        "two": "4185XXXXXXXX9554"
+    },
+    "AddNickname": "Add nickname"
+}

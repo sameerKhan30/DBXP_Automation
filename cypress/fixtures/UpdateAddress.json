@@ -1,0 +1,12 @@
+{
+    "addressType": {
+        "Permanent": "Permanent",
+        "Temporary": "Temporary"
+    },
+    "addressLine1": "Dayal Bagh Agra",
+    "addressLine2": "Uttar Pradesh",
+    "Pincode": "560004",
+    "documentType": "Pan Card",
+    "OTP": "123456",
+    "logOutMessage": "Are you sure you want to logout from MyBank ?"
+}

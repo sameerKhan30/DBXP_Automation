@@ -1,0 +1,12 @@
+stages:
+  - e2e
+
+e2e:
+  stage: e2e
+  script:
+    - npm cache clean --force
+    - npm ci
+    - npm cache verify
+    - node_modules/.bin/cypress verify
+    - node_modules/.bin/cypress run --spec cypress/e2e/sequenceTest.cy.ts --env environment=standalone
+    - mailx -vvv -s "DBXP_InternetBanking_E2E_Report" -a reports/mbw-e2e-report.html -c prabhat.atri@comviva.com,ranjit.gill@comviva.com  prashant.kumar5@comviva.com,nanda.annigeri@comviva.com,arun.kumar9@comviva.com,hritika.yadav@comviva.com < /dev/null

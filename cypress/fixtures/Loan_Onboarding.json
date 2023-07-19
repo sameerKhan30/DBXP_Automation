@@ -1,0 +1,24 @@
+{
+    "OTP": " 123456",
+    "email": "Test124@gamil.com",
+    "firstName": "Sameer",
+    "lastName": "Khan",
+    "fatherName": "Test",
+    "selectYear": "1999",
+    "selectMonth": "DEC",
+    "selectDate": "30",
+    "panNumber": "QAZXS1103L",
+    "gender": "Male",
+    "addressLine1": "Dayal Bagh Agra",
+    "pinCode": "560004",
+    "employementTypes": {
+        "Retired": "Retired",
+        "Salaried": "Salaried",
+        "BusinessOwner": "Business Owner",
+        "SelfEmployed": "Self Employed",
+        "Student": "Student"
+    },
+    "profession": "CA",
+    "password": "Com@1357",
+    "confirmPassword": "Com@1357"
+}

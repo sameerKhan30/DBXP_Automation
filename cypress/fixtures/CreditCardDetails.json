@@ -1,0 +1,7 @@
+{
+    "PermanentAddress": "[class='col-md-10'] [ng-reflect-value='permanent']",
+    "TemperoryAddress": "div input#temporaryAddress",
+    "OTP": "123456",
+    "upgradeCardTypes": " Gold Credit Card",
+    "disputeTransaction": "sportwear"
+}

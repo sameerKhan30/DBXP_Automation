@@ -1,0 +1,31 @@
+{
+  "PanNumber": "IZKPK6605L",
+  "enterAmount": "100000",
+  "LoanTypes": {
+    "Personal": "Personal Loan",
+    "Car": "Car Loan",
+    "Home": "Home Loan",
+    "Business": "Business Loan",
+    "Gold": "Gold Loan"
+  },
+
+  "CountryCurrency": {
+    "LAK": "LAK - ₭",
+    "USD": "USD - $",
+    "THB": "THB - ฿"
+  },
+
+  "EmployementTypes": {
+    "Student": "Student",
+    "SelfEmployed": "Self Employed",
+    "BusinessOwner": "Business Owner",
+    "Retired": "Retired",
+    "Salaried": "Salaried"
+  },
+  "selectYear": "2020",
+  "selectMonth": "FEB",
+  "selectDate": "15",
+  "selectProfession": "CA",
+  "SuccessMessage": "Your request for Home Loan is sent successfully !",
+  "description": "Our customer care will get in touch with you soon. You can track your service request from Help Center"
+}

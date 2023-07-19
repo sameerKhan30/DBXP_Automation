@@ -1,0 +1,20 @@
+{
+    "InterestRates": {
+        "fixedDeposit": "Fixed Deposit Interest Rates",
+        "loanInterest": "Loan Interest Rates",
+        "savingsInterest": "Savings Account Interest Rates",
+        "recurringDeposit": "Recurring Deposit Interest Rates"
+    },
+    "ranges": {
+        "FD_Less_than_2Cr": "FD Less than 2 Cr",
+        "FD_between_2Cr_to_5cr": "FD between 2 Cr to 5cr",
+        "FD_above_5cr": "FD above 5cr"
+    },
+    "loanTypes": {
+        "personalLoan": "Personal Loan",
+        "businessLoan": "Business loan",
+        "carLoan": "Car loan",
+        "homeLoan": "Home loan",
+        "goldLoan": "Gold loan"
+    }
+}

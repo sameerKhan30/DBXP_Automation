@@ -1,0 +1,38 @@
+{
+  "PanNumber": "IZKPK6605L",
+  "EmployementDetailsHeaderText": " Enter your additional details ",
+  "EmploymentTypeDropdown": "Employment type ",
+  "LastEmployerName": "IM",
+  "StartDateOfBusiness": "12/23/2002",
+  "EmployementTypes": {
+    "Student": "Student",
+    "SelfEmployed": "Self Employed",
+    "BusinessOwner": "Business Owner",
+    "Retired": "Retired",
+    "Salaried": "Salaried"
+  },
+  "LoanType": {
+    "PersonalLoan": "Personal Loan",
+    "CarLoan": "Car Loan",
+    "BusinessLoan": "Business Loan",
+    "HomeLoan": "Home Loan",
+    "GoldLoan": "Gold loan"
+  },
+  "MonthlyIncome": "25000",
+  "LoanAmount": "100000",
+  "EmployeeID": "IM1599",
+  "EmployerName": "Microsoft",
+  "LastEmployer": "InnovationM",
+  "CountryCurrency": {
+    "LAK": "LAK - ₭",
+    "USD": "USD - $",
+    "THB": "THB - ฿"
+  },
+  "selectYear": "2020",
+  "selectMonth": "FEB",
+  "selectDate": "15",
+  "selectProfession": "CA",
+  "purposeOfLoan": "Travelling",
+  "fatherName": "Test",
+  "motherName": "Demo"
+}
